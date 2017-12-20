@@ -93,7 +93,7 @@ window.setInterval(update, 1000);
             "<p id='Omtext1'>OM IS THE UNIVERSAL SOUND OF CREATION.<br>"+
             "<p id='Omtext2'><i>Close your eyes and allow yourself <br>to feel the vibration of the Om sound <br>"+
             " resonating through every single cell in your body.</i></p>"+
-            '<audio id="om_meditation" src="audio/om_11_times.mp3" autoplay>' +
+            '<audio id="om_meditation" src="om_11_times.mp3" autoplay>' +
             '<p>If you are reading this, it is because your browser does not support the audio element.</p>'+
             '</audio>'+
             '<button type="button" id="Om_close_button" title="Return to home page">II</button>');
@@ -117,7 +117,7 @@ window.setInterval(update, 1000);
         $('#mindful').html(''+
         '<p id="mindful_quote"><i>"Do not dwell in the past, do not dream of the future,<br>concentrate the mind on the present moment."</i></p>'+
         '<p id="mindful_quote_byline">-Buddha</p>'+
-        '<audio id="meditate_sound" src="audio/Body-Sound-Meditation.mp3" autoplay>' +
+        '<audio id="meditate_sound" src="Body-Sound-Meditation.mp3" autoplay>' +
         '<p>If you are reading this, it is because your browser does not support the audio element.</p>'+
         '</audio>'+
         '<button type="button" id="close-trigger-5" title="Return to home page">II</button>');
@@ -188,7 +188,7 @@ window.setInterval(update, 1000);
         $('#play-music').html(''+
         "<p id='musictext'>You're listening to Weightless</p>"+
         "<p id='musictextbyline'><i>By: Marconi Union</i></p>"+
-        '<audio id="paradise" src="audio/weightless.mp3" autoplay>' +
+        '<audio id="paradise" src="weightless.mp3" autoplay>' +
         '<p>If you are reading this, it is because your browser does not support the audio element.</p>'+
         '</audio>'+
         '<button type="button" id="close-trigger-3">X</button>');
