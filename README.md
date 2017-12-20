@@ -1,2 +1,2 @@
-# metanoia-demo-github.io
+# Metanoia
 Beta version of Metanoia
