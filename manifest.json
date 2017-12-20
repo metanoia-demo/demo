@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+
+    "name": "Metanoia",
+    "version": "1.0.1",
+    "description": "Put an end to negativity through the life-changing skills of positive psychology.",
+
+    "icons": {
+        "128": "icon/icon128.png",
+        "48": "icon/icon48.png",
+        "16": "icon/icon16.png"
+    },
+
+    "browser_action": {
+        "default_icon": "icon/icon16.png"
+    },
+
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+    },
+
+    "permissions": [
+        "https://source.unsplash.com/",
+        "tts"
+    ]    
+}
